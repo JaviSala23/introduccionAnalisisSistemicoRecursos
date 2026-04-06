@@ -1,4 +1,3 @@
-
 # introduccionAnalisisSistemicoRecursos
 
 Este repositorio reúne materiales, actividades y recursos complementarios para la asignatura de Introducción al Análisis Sistémico. Su objetivo es facilitar el acceso a contenidos clave, actividades prácticas y enlaces útiles para profundizar en los conceptos trabajados en clase.
@@ -15,7 +14,3 @@ Este repositorio reúne materiales, actividades y recursos complementarios para 
 1. Explora las carpetas de cada clase para encontrar actividades y materiales.
 2. Consulta el archivo Recursos.md para acceder a enlaces y materiales adicionales.
 3. Utiliza la carpeta libros para revisar bibliografía sugerida.
-
-## Recursos destacados
-
-- Accede a recursos complementarios y enlaces útiles en el archivo [Recursos.md](Recursos.md).
